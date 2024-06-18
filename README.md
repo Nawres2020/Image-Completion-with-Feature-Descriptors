@@ -36,3 +36,4 @@ Using the calculated homography matrix, the patches are overlaid onto the image 
 Conclusion
 In this project, an algorithm was developed to automatically find and correct missing or corrupted areas in an input image using feature descriptors. By utilizing SIFT features, matches between the image and patches were computed and refined. The RANSAC algorithm was employed to calculate the homography matrix, which allowed for precise alignment and overlaying of the patches onto the image. The algorithm successfully performed image completion by replacing the missing or corrupted areas with the appropriate patches.
 
+[Project_Nawres_Atide_Hamrouni.pdf](https://github.com/user-attachments/files/15890102/Project_Nawres_Atide_Hamrouni.pdf)
